@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/osumarecom/static/css/main.c1d3b357.css",
-    "main.js": "/osumarecom/static/js/main.33e34199.js",
+    "main.css": "/osumarecom/static/css/main.c4d8338a.css",
+    "main.js": "/osumarecom/static/js/main.f92481da.js",
     "static/js/787.ec704a7a.chunk.js": "/osumarecom/static/js/787.ec704a7a.chunk.js",
     "index.html": "/osumarecom/index.html",
-    "main.c1d3b357.css.map": "/osumarecom/static/css/main.c1d3b357.css.map",
-    "main.33e34199.js.map": "/osumarecom/static/js/main.33e34199.js.map",
+    "main.c4d8338a.css.map": "/osumarecom/static/css/main.c4d8338a.css.map",
+    "main.f92481da.js.map": "/osumarecom/static/js/main.f92481da.js.map",
     "787.ec704a7a.chunk.js.map": "/osumarecom/static/js/787.ec704a7a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c1d3b357.css",
-    "static/js/main.33e34199.js"
+    "static/css/main.c4d8338a.css",
+    "static/js/main.f92481da.js"
   ]
 }
